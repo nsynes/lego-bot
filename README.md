@@ -12,3 +12,5 @@ Then, in the `rc.local` file, enter the following line of code before the `exit 
 ```
 python /path/to/file/lego-bot.py &
 ```
+![lego-bot diagram](/img/lego-bot.png "lego-bot diagram")
+[lego-bot diagrams and instructions](lego-bot.pdf)
